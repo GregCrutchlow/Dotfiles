@@ -1,0 +1,11 @@
+[user]
+
+name = Greg Crutchlow
+email = gregcrutchlow@gmail.com
+
+[alias]
+
+co = checkout
+br = branch
+ci = commit
+st = status
